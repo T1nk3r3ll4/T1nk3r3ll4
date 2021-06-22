@@ -8,7 +8,7 @@
 ### 2021 Goals
 #### Learning
 - Pass my Second Language French exams by the end of August 2021.
-- Finish INE Starter Pass - Penetration Student course.
+- Finish INE Starter Pass - Penetration Testing Student course.
 - Pass the eJPT certification by the end of September 2021.
 - Do at least 1 CTF event per month.
 - Slow down on TryHackMe, do writeups, and work on understanding.
