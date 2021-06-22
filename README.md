@@ -14,4 +14,6 @@
 - Slow down on TryHackMe, do writeups, and work on understanding.
 #### Other
 - Bike at least 4x per week.
+- Lose 20 lbs.
 - Work on pyrography at least once per week.
+- Pay off 31% of my house (currently at 26.89%).
